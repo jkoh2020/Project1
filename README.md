@@ -4,6 +4,23 @@ The Expense Reimbursement System manages the process of reimbursing employees fo
 
 # Technologies Used:
 * Java
+* JavaScript
 * JSP
 * Servlet
-* 
+* HTML/CSS
+* BootStrap
+* Tomcat
+* MySQL
+* Oracle
+* AWS
+
+# Features:
+* All employees can register to create the reimburse account
+* Employees must login to submit or view reimbursement
+* Employees can view pending or approved reimburse requests
+* Finance managers can view all reimburse requests
+* Fincance managers can approve or deny requests
+
+# Usage:
+In order to request reimburse. Employees must register first then employees can log in to request a reimbursement. 
+In this version, finance manager password and username is built-in. So, finance manager username is 'admin' and password is '123'
